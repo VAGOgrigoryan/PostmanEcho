@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-27T12:25:53" hostname="GRIGORYAN" time="32.601">
+  <properties/>
+  <testcase name="shouldReturnPostmanEcho()" classname="PostmanEchoTest" time="32.601"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
